@@ -37,6 +37,8 @@ using epoch =50, filters=16, kernel_size=(3,3) gave accuracy score of 75%
 using epoch =3, filters=16, kernel_size=(3,3) gave accuracy score of 57%
 
 ## Accuracy ConfusionMatrixDisplay
+![image](https://github.com/amna55/Identification-of-Natural-Scenes/assets/106149828/355d62dd-f6a0-4820-9cd6-7d557604026b)
+
 
 ## Acknowledgements
 
